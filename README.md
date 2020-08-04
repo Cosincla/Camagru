@@ -19,7 +19,7 @@ Camagru is a project I worked on during my time at WeThinkCode. The project enta
 ## Usage/Tests
 
 1. Navigate to http://localhost/Camagru/index.php
-2. Under New User, click on the link and sign up.
+2. Under New User, click on the link and sign up (Use local-user@localhost.com as your email).
 3. After a few minutes, you should receive an email in thunderbird, use the verification code on the verification page (If you dont feel like waiting look it up in phpmyadmin cosincla_camagru -> verification under unlock).
 4. Sign in with your account detail.
 5. Click on Settings and choose the Edit Profile Photo option. Choose a file, upload then save it. You should be returned to the gallery with a changed profile photo.
