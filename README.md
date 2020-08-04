@@ -28,7 +28,7 @@ Camagru is a project I worked on during my time at WeThinkCode. The project enta
 8. When you are happy, take the photo then save it.
 9. The image should now be in the public Gallery, click Like/comment then either like or comment.
 10. Click on Settings and choose My Gallery, find your photo and click on view likes/comments, it should show either your like or comment (whichever ones you did).
-11. Click back, then goback into your gallery.
+11. Click back, then go back into your gallery.
 12. Click Delete, then yes.
 
 If all that was successful, then all the important stuff works.
