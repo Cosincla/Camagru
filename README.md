@@ -35,7 +35,6 @@ If all that was successful, then all the important stuff works.
 
 
 ## Database Structure
-
 (Note: for all tinyints, 1 is true and 0 is false)
 
 ### users
@@ -83,6 +82,26 @@ If all that was successful, then all the important stuff works.
 * `int` *id* (Primary key)
 * `varchar(191)` *user_id*
 * `varchar(20)` *unlock* (verification code needed to validate a user's profile)
+
+
+## File Structure
+
+* `config:` contains files for setting up the database.
+* `email_c:` contains files for updating preferences for email on comment.
+* `email_e:` contains files for changing email addresses.
+* `email_r:` contains files for recovering emails.
+* `email_v:` contains files for verifying emails.
+* `gallery:` contains files for public gallery.
+* `landing_page:` contains files for the landing page.
+* `main_page:` contains files for taking and editing photos.
+* `mygal:` contains files for the personal gallery.
+* `new_user:` contains files for creating a new user.
+* `pphoto:` contains files for editing profile photos.
+* `pswd:` contains files for changing your password.
+* `user_e:` contains files for changing your username.
+* `author:` author file.
+* `index.php:` php file that starts up the website.
+* `init.php:` php file that starts the session.
 
 
 [xamp]: https://www.apachefriends.org/index.html
