@@ -44,7 +44,7 @@ If all that was successful, then all the important stuff works.
 * `varchar(191)` *surname*
 * `varchar(20)` *username* (unique)
 * `char(128)` *password* (hashed so nobody can steal it)
-* `email` *varchar(191)*
+* `varchar(191)` *email*
 * `tinyint(1)` *email_on_comment* (Does the user want to receive an email when someone comments on their photo?)
 * `tinyint(1)` *validated* (Has the user been successfully verified?)
 
