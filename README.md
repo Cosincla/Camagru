@@ -46,7 +46,7 @@ If all that was successful, then all the important stuff works.
 * `char(128)` *password* (hashed so nobody can steal it)
 * `email` *varchar(191)*
 * `tinyint(1)` *email_on_comment* (Does the user want to receive an email when someone comments on their photo?)
-* `validated` *validated* (Has the user been successfully verified?)
+* `tinyint(1)` *validated* (Has the user been successfully verified?)
 
 ### profile_photos
 
