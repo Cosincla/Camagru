@@ -1,6 +1,6 @@
 # Camagru
 
-Camagru is a project I worked on during my time at WeThinkCode. The project entailed developing a website that can take an image, either uploaded or taken with the Computer's camera, and edit that photo with a variety of stickers. Other users would be able to see your photos and would be able to like andcomment on them.
+Camagru is a project I worked on during my time at WeThinkCode. The project entailed developing a website that can take an image, either uploaded or taken with the Computer's camera, and edit that photo with a variety of stickers. Other users would be able to see your photos and would be able to like and comment on them.
 
 
 ## Requirements
