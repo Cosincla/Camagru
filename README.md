@@ -21,7 +21,7 @@ Camagru is a project I worked on during my time at WeThinkCode. The project enta
 1. Navigate to http://localhost/Camagru/index.php
 2. Under New User, click on the link and sign up (Use local-user@localhost.com as your email).
 3. After a few minutes, you should receive an email in thunderbird, use the verification code on the verification page (If you dont feel like waiting look it up in phpmyadmin cosincla_camagru -> verification under unlock).
-4. Sign in with your account detail.
+4. Sign in with your account details.
 5. Click on Settings and choose the Edit Profile Photo option. Choose a file, upload then save it. You should be returned to the gallery with a changed profile photo.
 6. Click on Create and allow the site to use the camera.
 7. Click on either a sticker or a background to add it to the photo, clicking the same sticker/background again will remove it.
